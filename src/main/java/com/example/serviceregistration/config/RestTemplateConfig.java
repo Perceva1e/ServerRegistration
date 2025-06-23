@@ -1,4 +1,4 @@
-package com.example.serviceui.config;
+package com.example.serviceregistration.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.web.client.RestTemplateBuilder;

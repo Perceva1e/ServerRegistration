@@ -1,13 +1,13 @@
-package com.example.serviceui;
+package com.example.serviceregistration;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServiceUiApplication {
+public class ServiceRegistrationApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ServiceUiApplication.class, args);
+        SpringApplication.run(ServiceRegistrationApplication.class, args);
     }
 
 }

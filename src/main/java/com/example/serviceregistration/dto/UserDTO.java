@@ -1,4 +1,4 @@
-package com.example.serviceui.dto;
+package com.example.serviceregistration.dto;
 
 import lombok.Data;
 

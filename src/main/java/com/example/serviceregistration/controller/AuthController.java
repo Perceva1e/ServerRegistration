@@ -1,9 +1,9 @@
-package com.example.serviceui.controller;
+package com.example.serviceregistration.controller;
 
-import com.example.serviceui.dto.AuthRequest;
-import com.example.serviceui.dto.AuthResponse;
-import com.example.serviceui.dto.UserDTO;
-import com.example.serviceui.service.UserServiceClient;
+import com.example.serviceregistration.dto.AuthRequest;
+import com.example.serviceregistration.dto.AuthResponse;
+import com.example.serviceregistration.dto.UserDTO;
+import com.example.serviceregistration.service.UserServiceClient;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;

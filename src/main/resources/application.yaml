@@ -1,1 +1,10 @@
-spring.application.name=ServiceUI
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ui-service
+
+servicedb:
+  api:
+    url: http://localhost:8081/api
